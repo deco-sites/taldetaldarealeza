@@ -1,0 +1,24 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "shopify/loaders/ProductList.ts",
+    "filters": {
+      "tags": [],
+      "productTypes": [],
+      "productVendors": [],
+      "variantOptions": []
+    },
+    "props": {
+      "query": "corrente de prata 925 elos fígaro",
+      "count": 4
+    }
+  },
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 1
+    },
+    "headerAlignment": "center",
+    "headerfontSize": "Normal"
+  }
+}

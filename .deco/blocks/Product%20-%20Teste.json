@@ -1,0 +1,23 @@
+{
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "products": {
+    "__resolveType": "shopify/loaders/ProductList.ts",
+    "props": {
+      "sort": ""
+    },
+    "filters": {
+      "tags": [],
+      "productTypes": [],
+      "productVendors": [],
+      "variantOptions": []
+    }
+  },
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "desktop": 1
+    },
+    "headerAlignment": "center",
+    "headerfontSize": "Normal"
+  }
+}

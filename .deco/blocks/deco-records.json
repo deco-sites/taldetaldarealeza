@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://taldetaldarealeza-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "c8fb7742f1778c5b3202d52b6f1a1e2a2bc8bd40eccde6b96ad998d981166a31cdf2c2a6e12371273f1a06dce5ff8cb7ff4909dc982a159428ed7439a4ce7218687cf9dd0921c3d974f4405256d13ba72ce2b11fcfd79ae0266d3c93d88ebca816e473e85ae886dd8cdbe0dbb6743b81d5f07627767caaa0aec790b10c664a2613d6f93eb0ea6ba64e3957f3abf0c471e641f07e5d6c6ac2b4daddc96f59d3533436cfea4e25f54bb35b3a1e8bd46e342813726d36088c12b3cfc705eaef724cefa268b9f1fae3f6457e03883b6fdba3dd8f34fc61d4a5bfc3d410ee7ba0ca63"
+  }
+}

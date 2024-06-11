@@ -1,1 +1,10 @@
-{"__resolveType":"site/apps/deco/shopify.ts"}
+{
+  "__resolveType": "site/apps/deco/shopify.ts",
+  "adminAccessToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "18d923e61b5f4ca2dd7646c79a2c281fcc9a5b35039a0640b92d1422cba9f5c549ebbd67b2405e9eac85db83e9f2bdfc"
+  },
+  "platform": "shopify",
+  "storeName": "8a5d25",
+  "storefrontAccessToken": "10a7f2f7724218fd3b56ae961072a321"
+}
