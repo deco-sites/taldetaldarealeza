@@ -1,4 +1,15 @@
 {
   "name": "collections/blog/posts/758b64ac75a5",
-  "__resolveType": "blog/loaders/Blogpost.ts"
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      null
+    ],
+    "categories": [],
+    "slug": "teste-blog",
+    "date": "2024-06-11",
+    "title": "Teste",
+    "excerpt": "testetest",
+    "content": "<p>Testestsemng,skmglsekigmjlsekgmsle</p><p></p>"
+  }
 }
